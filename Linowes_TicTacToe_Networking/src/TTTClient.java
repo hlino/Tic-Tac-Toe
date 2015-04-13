@@ -1,4 +1,4 @@
-/*Harrison Linowes Dennis Mukhin
+/*Harrison Linowes
  * tic tac toe client handles receiving messages from the server with a thread
  * updates the board with their move and he move sent from the server
  * sends the server its move aswell
