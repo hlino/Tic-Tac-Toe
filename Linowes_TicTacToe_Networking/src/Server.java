@@ -1,4 +1,4 @@
-/*Harrison Linowe
+/*Harrison Linowes
  * creates the server for a tic tac toe game
  * sends back and forth information and maintains a board checking
  * to see when the game has ended
